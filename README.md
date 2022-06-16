@@ -4,6 +4,7 @@ Satria Sapta Nugraha 2017051022 (database, js, fonts, index.php, navbar.php, tam
 Aullya Hanan Wulandari 2017051079 (ceklogin.php, changephoto.php, editbuku.php, hapus.php, head.php, header.php)
 Pynka Aryani Angelia Haryanto 2057051024 (historipeminjaman.php, listbuku.php, listpeminjaman.php, managebuku.php, peminjam.php, pengembalian.php, registrasi.php,)
 
+## Daftar Akun 
 Akun Admin 
 Username : admin
 Pass : admin
