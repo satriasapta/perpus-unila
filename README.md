@@ -5,15 +5,15 @@ Aullya Hanan Wulandari 2017051079 (ceklogin.php, changephoto.php, editbuku.php, 
 Pynka Aryani Angelia Haryanto 2057051024 (historipeminjaman.php, listbuku.php, listpeminjaman.php, managebuku.php, peminjam.php, pengembalian.php, registrasi.php,) <br>
 
 ## Daftar Akun 
-Akun Admin 
-Username : admin
-Pass : admin
+Akun Admin <br>
+Username : admin <br>
+Pass : admin <br>
+<br>
+Akun Pengguna 1 <br>
+Username : 123user <br>
+Pass : user123 <br>
+<br>
 
-Akun Pengguna 1
-Username : 123user
-Pass : user123
-
-
-Akun Pengguna 2
-Username : satriasapta
-Pass     : satriasapta
+Akun Pengguna 2 <br>
+Username : satriasapta <br>
+Pass     : satriasapta <br>
